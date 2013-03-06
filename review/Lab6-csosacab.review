@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="Lab6">
+  <ReviewIssue id="HDZ0SBCS">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:57:244 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:51:20:263 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="10">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public variable names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0SXRO">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:50:26:292 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:51:15:404 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="11">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public variable names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0TJED">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:50:54:325 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:51:41:311 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="12">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public variable names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0UZOE">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:52:02:078 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:52:21:500 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="64">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public method names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0VJDM">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:52:27:610 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:54:46:976 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="68">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public method names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ10M99">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:56:24:621 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:56:41:684 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="24">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Getter method names are not in alphabetical order</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ12721">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:57:38:233 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:58:01:578 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="72">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Public methods should be placed before private or protected methods</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ14XKC">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:59:45:900 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:00:09:838 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="12">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.major</Severity>
+    <Summary>Non-constructor method should be placed after constructors.</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ16PV4">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:01:09:232 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:01:53:812 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="45">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.major</Severity>
+    <Summary>If statements should have opening and closing braces</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ18IKN">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:02:33:095 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:02:48:689 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="6">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public variable names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ1906S">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:02:55:924 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:03:05:643 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="12">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary></Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ1BYSM">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:05:14:086 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:05:29:884 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>csosacab</ReviewerId>
+    <AssignedTo>csosacab</AssignedTo>
+    <File line="5">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>Non-public variable names should have a leading underscore</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>
